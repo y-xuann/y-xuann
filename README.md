@@ -1,4 +1,4 @@
-- 👋 Hi there! I'm currently a Year 2, Semester 1 student at Monash University, pursuing a Bachelor of Computer Science with a focus on Data Science.
+- 👋 Hi there! I'm currently a fresh graduate in Bachelor of Computer Science with a focus on Data Science.
 - 👀 I have a keen interest in Data Science and programming, always eager to learn and explore new technologies.
 - 🌱 Right now, I'm learning Full Stack Development, mastering skills in JavaScript, HTML, and more.
 
